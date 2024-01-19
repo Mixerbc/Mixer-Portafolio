@@ -1,0 +1,43 @@
+/* App.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+ 
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+   
+}
+.nav{
+   
+    
+    background: url('./images/Estabilidad4.gif') no-repeat center center fixed;
+    background-size: cover;
+    height:  98vh;
+}
+.fondo{
+     
+    background: url('./images/Estabilidad1.gif') no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    height:  100%;
+    
+}
+.fondo2{
+     
+    background: url('./images/Estabilidad1.gif') no-repeat center center fixed;
+    background-size: cover;
+    height:  100%;
+    
+}
+
+
+.saludo{ height: 55vh;
+};
+
+
+
+
