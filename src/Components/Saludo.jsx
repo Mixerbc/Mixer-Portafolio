@@ -23,7 +23,7 @@ export default function App() {
      <a href="https://www.linkedin.com/in/mixerbastidas/">
       <Avatar className="xl:hover:translate-y-[-1rem] transition-all"   isBordered size="lg" color="primary" src={linkedin} />
       </a> 
-   <a href="https://drive.google.com/file/d/1L9Y4DN5fbq_xklLqF5mCjbsHeCUPdNng/view?usp=drive_link"><Avatar className="xl:hover:translate-y-[-1rem] transition-all"  isBordered  size="lg" color="secondary" src={cv} />
+   <a href="https://docs.google.com/document/d/116NQ8Snq8T_Jq_VWI3GKheg1hrWrfM2_shiLjDUxdO8/edit?usp=sharing"><Avatar className="xl:hover:translate-y-[-1rem] transition-all"  isBordered  size="lg" color="secondary" src={cv} />
     </a>  
    
     </div>
